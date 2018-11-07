@@ -5,42 +5,7 @@
         "desc": "该模板适用于电商类管理后台，布局方式采用左侧固定，右侧自适应方式，适合大量数据展示和界面操作",
         "src": "https://img.alicdn.com/tfs/TB1265Oay6guuRjy1XdXXaAwpXa-2840-1596.png",
         "viewSrc": "https://iivbox.github.io/iivbox/preview/open-source",
-        "codeSrc": "https://github.com/iivbox/iivbox"
-      },
-  {
-        "id": 2,
-        "title": "ICE Light Bootstrap Dashboard",
-        "desc": "该模板适用于电商类管理后台，布局方式采用左侧固定，右侧自适应方式，适合大量数据展示和界面操作",
-        "src": "https://img.alicdn.com/tfs/TB19ek5gjDpK1RjSZFrXXa78VXa-2860-1522.png",
-        "viewSrc": "https://iivbox.github.io/iivbox/preview/open-source2",
-      "codeSrc": "https://github.com/iivbox/iivbox"
-      },
-  
-  {
-        "id": 3,
-        "title": "ICE Open Platform LandingPage",
-        "desc": "该模板适用于电商类管理后台，布局方式采用左侧固定，右侧自适应方式，适合大量数据展示和界面操作",
-        "src": "https://img.alicdn.com/tfs/TB1RICXdSrqK1RjSZK9XXXyypXa-2840-1580.png",
-      "viewSrc": "https://iivbox.github.io/iivbox/preview/open-source2",
-      "codeSrc": "https://github.com/iivbox/iivbox"
-      },
-  
-  {
-        "id": 4,
-        "title": "ICE Light",
-        "desc": "该模板适用于电商类管理后台，布局方式采用左侧固定，右侧自适应方式，适合大量数据展示和界面操作",
-        "src": "https://img.alicdn.com/tfs/TB1ZuTBtbwrBKNjSZPcXXXpapXa-2840-1596.png",
-        "viewSrc": "https://iivbox.github.io/iivbox/preview/open-source2",
-      "codeSrc": "https://github.com/iivbox/iivbox"
-      },
-  
-  {
-        "id": 5,
-        "title": "ICE Light Bootstrap Dashboard",
-        "desc": "该模板适用于电商类管理后台，布局方式采用左侧固定，右侧自适应方式，适合大量数据展示和界面操作",
-        "src": "https://img.alicdn.com/tfs/TB1ai53mqmWBuNjy1XaXXXCbXXa-1920-1080.png",
-      "viewSrc": "https://iivbox.github.io/iivbox/preview/open-source2",
-      "codeSrc": "https://github.com/iivbox/iivbox"
+        "codeSrc": "https://github.com/iivbox/iivbox",
+        "tplSrc": "https://iivbox.github.io/iivbox/template/vue-admin.tar"
       }
-  
   ]
